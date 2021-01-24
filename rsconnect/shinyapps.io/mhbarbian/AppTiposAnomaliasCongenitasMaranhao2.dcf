@@ -1,0 +1,13 @@
+name: AppTiposAnomaliasCongenitasMaranhao2
+title: AppTiposAnomaliasCongenitasMaranhao2
+username:
+account: mhbarbian
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1302724
+bundleId: 2481551
+url: https://mhbarbian.shinyapps.io/AppTiposAnomaliasCongenitasMaranhao2/
+when: 1570567681.29861
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: app_tipo_anomalia_6_6_versao1.R
